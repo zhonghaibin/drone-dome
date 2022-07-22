@@ -11,4 +11,4 @@ steps:
   image: golang
   commands:
   - go build
-  - http
+  - ./http
